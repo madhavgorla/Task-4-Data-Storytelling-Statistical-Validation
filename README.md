@@ -1,170 +1,361 @@
-🚀 Successfully Completed Task 4: Data Storytelling & Statistical Validation 🚀
+# 📊 Task 4: Data Storytelling & Statistical Validation
 
-I am excited to share the successful completion of **Task 4** as part of my **Data Analytics Internship at ApexPlanet Software Pvt. Ltd.**
+## 🚀 ApexPlanet Software Pvt. Ltd. – Data Analytics Internship
 
-This project focused on transforming raw business data into meaningful insights through data storytelling, statistical validation, business intelligence, and analytical reporting. The objective was to validate key business findings using statistical techniques and present them in a way that supports data-driven decision-making.
+### 👨‍💻 Author
+
+**Madhav Gorla**
+
+---
 
 # 📌 Project Overview
 
-The project involved a comprehensive analysis of sales transaction data to identify revenue drivers, customer behavior patterns, product performance, and business growth opportunities.
+This project was completed as part of the **ApexPlanet Software Pvt. Ltd. Data Analytics Internship Program**.
 
-The analysis combined Exploratory Data Analysis (EDA), Business Intelligence techniques, statistical testing, and professional reporting to generate actionable business recommendations.
+The objective of this task was to transform analytical findings into meaningful business stories, validate insights using statistical techniques, and provide actionable recommendations that support data-driven decision-making.
 
-# 🎯 Objectives Achieved
+The project combines **Exploratory Data Analysis (EDA)**, **Business Intelligence**, **Statistical Validation**, **Hypothesis Testing**, and **Data Storytelling** to bridge the gap between raw data and business strategy.
 
-✅ Performed deep-dive sales performance analysis
+---
 
-✅ Identified revenue drivers and customer purchasing behavior
+# 🎯 Project Objectives
 
-✅ Conducted product performance evaluation
+* Transform data insights into a business narrative.
+* Identify key revenue drivers and customer behavior patterns.
+* Validate business findings using statistical methods.
+* Apply hypothesis testing techniques.
+* Analyze relationships between business variables.
+* Generate data-driven recommendations.
+* Communicate findings through professional reports and presentations.
 
-✅ Performed correlation analysis between business variables
-
-✅ Applied statistical validation techniques
-
-✅ Tested business hypotheses using Pearson Correlation Analysis
-
-✅ Developed data storytelling presentations and reports
-
-✅ Generated business recommendations based on analytical findings
-
-# 📈 Key Performance Indicators (KPIs)
-
-🔹 Total Revenue: ₹10,032,628.85
-
-🔹 Average Sales: ₹3,553.89
-
-🔹 Total Orders: 307
-
-🔹 Total Customers: 92
-
-# 🔍 Analysis Performed
-
-### Sales Distribution Analysis
-
-* Analyzed revenue distribution across transactions.
-* Identified sales concentration patterns and revenue trends.
-
-### Product Line Analysis
-
-* Evaluated product category performance.
-* Identified top-performing product lines.
-
-### Customer Analysis
-
-* Examined customer purchasing behavior.
-* Identified high-value customers contributing significantly to revenue.
-
-### Revenue Trend Analysis
-
-* Investigated sales performance trends.
-* Analyzed business growth opportunities.
-
-### Correlation Analysis
-
-* Studied relationships among numerical business variables.
-* Created correlation heatmaps and visualizations.
-
-# 📊 Statistical Validation
-
-### Hypothesis Testing
-
-**H₀ (Null Hypothesis):**
-There is no significant relationship between Quantity Ordered and Sales Revenue.
-
-**H₁ (Alternative Hypothesis):**
-There is a significant relationship between Quantity Ordered and Sales Revenue.
-
-### Statistical Method Used
-
-✔ Pearson Correlation Test
-
-### Result
-
-✔ Positive Correlation Identified
-
-✔ Statistical Significance Confirmed
-
-✔ Null Hypothesis Rejected
-
-### Business Conclusion
-
-The analysis confirms that increasing order quantities significantly contributes to higher sales revenue, supporting data-driven business strategies.
-
-# 💡 Key Business Insights
-
-✅ Revenue exceeded ₹10 Million
-
-✅ Classic Cars emerged as the top-performing product category
-
-✅ Customer purchasing behavior strongly influences revenue generation
-
-✅ Quantity Ordered has a significant positive impact on Sales
-
-✅ Revenue is concentrated among top-performing products and customers
+---
 
 # 🛠️ Technologies & Tools Used
 
-🔹 Python
+### Programming & Analysis
 
-🔹 Pandas
+* Python
+* Pandas
+* NumPy
+* SciPy
 
-🔹 NumPy
+### Visualization
 
-🔹 Matplotlib
+* Matplotlib
+* Seaborn
 
-🔹 Seaborn
+### Statistical Analysis
 
-🔹 Jupyter Notebook
+* Pearson Correlation Test
+* Hypothesis Testing
+* Statistical Validation
 
-🔹 Statistical Analysis
+### Reporting & Storytelling
 
-🔹 Business Intelligence Reporting
+* Jupyter Notebook
+* PowerPoint Presentation
+* PDF Statistical Report
 
-🔹 GitHub
+### Version Control
+
+* GitHub
+
+---
+
+# 📂 Dataset Overview
+
+The dataset contains historical sales transaction records including:
+
+* Order Information
+* Customer Details
+* Product Categories
+* Sales Revenue
+* Quantity Ordered
+* Pricing Information
+* Geographic Data
+
+The dataset was cleaned and prepared during previous internship tasks before conducting statistical analysis and storytelling.
+
+---
+
+# 📈 Key Performance Indicators (KPIs)
+
+The following KPIs were calculated and analyzed:
+
+| KPI             | Value          |
+| --------------- | -------------- |
+| Total Revenue   | ₹10,032,628.85 |
+| Average Sales   | ₹3,553.89      |
+| Total Orders    | 307            |
+| Total Customers | 92             |
+
+---
+
+# 🔍 Analysis Performed
+
+## 1️⃣ Sales Distribution Analysis
+
+Analyzed the distribution of sales transactions to understand revenue patterns.
+
+### Insights
+
+* Most transactions fall within medium-value ranges.
+* High-value transactions contribute significantly to total revenue.
+* Revenue distribution is positively skewed.
+
+---
+
+## 2️⃣ Product Line Analysis
+
+Evaluated the performance of product categories.
+
+### Insights
+
+* Classic Cars emerged as the highest-performing product line.
+* Product demand varies significantly across categories.
+* Product mix directly impacts revenue generation.
+
+---
+
+## 3️⃣ Customer Analysis
+
+Examined customer purchasing behavior and revenue contribution.
+
+### Insights
+
+* High-value customers account for a large share of revenue.
+* Customer retention presents growth opportunities.
+* Purchasing patterns influence business performance.
+
+---
+
+## 4️⃣ Revenue Trend Analysis
+
+Investigated revenue performance across different periods.
+
+### Insights
+
+* Revenue varies across months.
+* Seasonal trends influence sales performance.
+* Trend analysis supports forecasting and planning.
+
+---
+
+## 5️⃣ Correlation Analysis
+
+Performed statistical correlation analysis among numerical variables.
+
+### Insights
+
+* Quantity Ordered positively influences Sales.
+* Revenue-related variables exhibit strong relationships.
+* Correlation analysis supports business decision-making.
+
+---
+
+# 🧪 Statistical Validation
+
+## Business Problem
+
+Understanding whether customer order quantity significantly influences sales revenue.
+
+---
+
+## Hypothesis Testing
+
+### Null Hypothesis (H₀)
+
+There is no significant relationship between Quantity Ordered and Sales Revenue.
+
+### Alternative Hypothesis (H₁)
+
+There is a significant relationship between Quantity Ordered and Sales Revenue.
+
+---
+
+## Statistical Method Used
+
+**Pearson Correlation Test**
+
+This test was used to evaluate the relationship between:
+
+* Quantity Ordered
+* Sales Revenue
+
+---
+
+## Results
+
+### Findings
+
+* Positive Correlation Identified
+* P-value < 0.05
+* Statistically Significant Relationship
+
+### Decision
+
+✅ Reject Null Hypothesis (H₀)
+
+✅ Accept Alternative Hypothesis (H₁)
+
+---
+
+## Business Interpretation
+
+The statistical analysis confirms that increasing order quantities significantly contributes to higher sales revenue.
+
+The observed relationship is statistically significant and can support future business strategies and sales optimization efforts.
+
+---
+
+# 📊 Visualizations Created
+
+The project includes:
+
+* Sales Distribution Histogram
+* Product Line Distribution Chart
+* Correlation Heatmap
+* Quantity Ordered vs Sales Scatter Plot
+* KPI Dashboard
+* Statistical Validation Report
+* Data Storytelling Presentation
+
+---
+
+# 📁 Deliverables
+
+### Analysis Files
+
+* `hypothesis_testing.ipynb`
+* `dashboard_dataset.csv`
+
+### Reporting Files
+
+* `statistical_validation_report.pdf`
+* `final_presentation.pptx`
+
+### Visualizations
+
+* Sales Distribution Histogram
+* Product Line Distribution Chart
+* Correlation Heatmap
+* Scatter Plot
+
+### Documentation
+
+* `README.md`
+
+---
+
+# 💡 Key Business Findings
+
+### Revenue Analysis
+
+* Total revenue exceeded ₹10 million.
+
+### Product Performance
+
+* Classic Cars generated the highest sales volume.
+
+### Customer Insights
+
+* 92 unique customers contributed to business growth.
+* Customer purchasing behavior significantly affects revenue.
+
+### Statistical Findings
+
+* Quantity Ordered has a statistically significant positive impact on Sales.
+* Statistical testing validates the business insights identified during EDA.
+
+### Revenue Drivers
+
+* Revenue is concentrated among top-performing products and customers.
+* Order quantity is a major contributor to sales performance.
+
+---
+
+# 📈 Business Recommendations
+
+* Focus marketing efforts on top-performing product lines.
+* Encourage bulk purchases through promotions.
+* Improve customer retention strategies.
+* Utilize dashboard monitoring for performance tracking.
+* Continue validating business decisions using statistical techniques.
+
+---
 
 # 🎓 Skills Demonstrated
 
-✔ Exploratory Data Analysis (EDA)
+## Data Analytics
 
-✔ Data Storytelling
+* Exploratory Data Analysis (EDA)
+* Data Interpretation
+* Statistical Analysis
 
-✔ Statistical Validation
+## Business Intelligence
 
-✔ Hypothesis Testing
+* KPI Development
+* Revenue Analysis
+* Customer Analytics
+* Business Reporting
 
-✔ Business Intelligence
+## Statistical Validation
 
-✔ Data Visualization
+* Hypothesis Testing
+* Pearson Correlation Analysis
+* Statistical Interpretation
 
-✔ Revenue Analysis
+## Data Visualization
 
-✔ Customer Analytics
+* Histogram Analysis
+* Scatter Plot Analysis
+* Correlation Heatmaps
+* Data Storytelling
 
-✔ Dashboard Reporting
+## Technical Skills
 
-✔ Problem Solving
+* Python Programming
+* Pandas
+* NumPy
+* SciPy
+* Matplotlib
+* Seaborn
+* GitHub
 
-✔ Data-Driven Decision Making
+## Professional Skills
 
-# 🌟 Learning Outcomes
+* Analytical Thinking
+* Problem Solving
+* Data Storytelling
+* Business Decision Support
+
+---
+
+# 🌟 Internship Learning Outcomes
 
 This project strengthened my ability to:
 
-• Analyze real-world business datasets
+* Analyze real-world business datasets.
+* Validate findings using statistical methods.
+* Apply hypothesis testing in practical scenarios.
+* Transform analytical findings into business stories.
+* Communicate insights through professional reports and presentations.
+* Support decision-making using data-driven evidence.
 
-• Validate findings using statistical techniques
+---
 
-• Transform data into actionable insights
+# 🔗 GitHub Repository
 
-• Develop business-oriented recommendations
-
-• Present analytical findings effectively through storytelling and reporting
-
-🔗 GitHub Repository:
+Repository:
 
 https://github.com/madhavgorla/Task-4-Data-Storytelling-Statistical-Validation
 
-I would like to thank **ApexPlanet Software Pvt. Ltd.** for providing this valuable opportunity to gain hands-on experience in Data Analytics, Statistical Analysis, Business Intelligence, and Data Storytelling.
+---
 
-#DataAnalytics #DataScience #BusinessIntelligence #Statistics #HypothesisTesting #DataStorytelling #Python #Pandas #NumPy #Matplotlib #Seaborn #JupyterNotebook #GitHub #Internship #ApexPlanet #OpenToWork #CareerGrowth #DataAnalyst #Analytics #LearningJourney
+# 🙏 Acknowledgements
+
+Special thanks to **ApexPlanet Software Pvt. Ltd.** for providing this internship opportunity and enabling practical learning in Data Analytics, Statistical Validation, Business Intelligence, and Data Storytelling.
+
+---
+
+⭐ If you find this project valuable, feel free to explore the repository and connect with me on LinkedIn.
